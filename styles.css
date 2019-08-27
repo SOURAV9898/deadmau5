@@ -1,0 +1,115 @@
+.main {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  background: url(http://dancemusicnw.com/wp-content/uploads/2016/11/deadmau5-masterclass-production.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+.deadmau5 {
+  color: white;
+  font-size: 70px;
+  text-align: center;
+  font-family: 'Lexend Deca', sans-serif;
+  width: 100%;
+}
+
+.manager {
+  margin: 0;
+  position: relative;
+  left: 25%;
+}
+
+.bookings {
+  margin-top: 20px;
+  margin-bottom: 0;
+  position: relative;
+  left: 25%
+}
+
+.bookingstext {
+  margin-top: 0;
+  margin-bottom: 10px;
+  position: relative;
+  left: 25%
+}
+
+p {
+  color: white;
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+.worldwide {
+  margin-top: 20px;
+  margin-bottom: 0;
+  position: relative;
+  left: 45%;
+  bottom: 120px;
+}
+
+.worldwidetext {
+  margin-top: 20px;
+  margin-bottom: 0;
+  position: relative;
+  left: 45%;
+  bottom: 140px;
+}
+
+.press {
+  margin-top: 20px;
+  margin-bottom: 0;
+  position: relative;
+  left: 45%;
+  bottom: 140px;
+}
+
+.presstext {
+  margin-top: 20px;
+  margin-bottom: 0;
+  position: relative;
+  left: 45%;
+  bottom: 160px;
+}
+
+.label {
+  margin-top: 20px;
+  margin-bottom: 0;
+  position: relative;
+  left: 70%;
+  bottom: 280px;
+}
+
+.labeltext {
+  margin-top: 20px;
+  margin-bottom: 0;
+  position: relative;
+  left: 70%;
+  bottom: 300px;
+}
+
+.instagram {
+  width: 2.80%;
+  position: relative;
+  left: 45%;
+  top: 600px;
+}
+
+.twitter {
+  width: 2.70%;
+  position: relative;
+  left: 45.5%;
+  top: 600px;
+}
+
+.facebook {
+  width: 2.80%;
+  position: relative;
+  left: 46%;
+  top: 600px;
+}
